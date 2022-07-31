@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WXZ6MB.png" group-title="CAD",01 Ici RDI (Opt-1 #2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WXZ6MB.png" group-title="CAD",01 Ici RDI (Opt-2)
+Not Woking #EXTINF:-1 tvg-logo="https://i.imgur.com/2WXZ6MB.png" group-title="CAD",01 Ici RDI (Opt-2)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Tseq.png" group-title="CAD",02 TVA MONTREAL HD
