@@ -115,25 +115,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e600071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",80 CNN (US) (Opt-6)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 
-Not working #EXTINF:-1 tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="CAD",81 Ici TV (Opt-2)
+Not working-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="CAD",81 Ici TV (Opt-2)
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
 
 
-Not working #EXTINF:-1 tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="CAD",82 ICI Montreal (720p)
+Not working-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="CAD",82 ICI Montreal (720p)
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-Not working #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",84 NBC News Now HD iptvcat
+Not working-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",84 NBC News Now HD iptvcat
 https://list.iptvcat.com/my_list/s/42f13f08df64e035bfa8e5fa660bcf91.m3u8
 
 
 
-Not working  #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",86 Fox New now (iptvcat)
+Not working-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",86 Fox New now (iptvcat)
 https://list.iptvcat.com/my_list/s/273279622d5eff11d705189e1aa37258.m3u8
 
-Not working #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",87 LCN (Opt-3)
+Not working-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",87 LCN (Opt-3)
 http://nox20b.xyz:80/live/necat/necat21/56571.ts
 
-Not working #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",88 LCN (Opt-4)
+Not working-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",88 LCN (Opt-4)
 http://nox20b.xyz:80/live/necat/necat21/56572.ts
 
 
