@@ -1,0 +1,484 @@
+#EXTM3U
+ #EXTINF:-1 tvg-id="ABC.(WTVQ).Lexington,.KY.us" tvg-name="US : ABC (WTVQ - LEXINGTON)" tvg-logo="http://hostengine.live:25461/images/a20172708a4120cffcc66aa84fce5908.png" group-title="USA ABC LOCALS",US : ABC (WTVQ - LEXINGTON)
+http://hostengine.live:25461/live/toolman/toolman/119015.m3u8
+#EXTINF:-1 tvg-id="ABC.(WTXL).Tallahassee,.FL.us" tvg-name="US : ABC (WTXL - TALLAHASSEE)" tvg-logo="http://hostengine.live:25461/images/a20172708a4120cffcc66aa84fce5908.png" group-title="USA ABC LOCALS",US : ABC (WTXL - TALLAHASSEE)
+http://hostengine.live:25461/live/toolman/toolman/119010.m3u8
+#EXTINF:-1 tvg-id="ABC.(WVEC).Norfolk,.VA.us" tvg-name="US : ABC (WVEC-HAMPTON VA)" tvg-logo="http://hostengine.live:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="USA ABC LOCALS",US : ABC (WVEC-HAMPTON VA)
+http://hostengine.live:25461/live/toolman/toolman/100597.m3u8
+#EXTINF:-1 tvg-id="abcwwsb.us" tvg-name="US : ABC (WWSB - SARASOTA)" tvg-logo="http://hostengine.live:25461/images/a20172708a4120cffcc66aa84fce5908.png" group-title="USA ABC LOCALS",US : ABC (WWSB - SARASOTA)
+http://hostengine.live:25461/live/toolman/toolman/119009.m3u8
+#EXTINF:-1 tvg-id="ABC.(WXLV).Winston-Salem,.NC.us" tvg-name="US : ABC (WXLV - WINSTON-SALEM)" tvg-logo="http://n2086.securepoint.io:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="USA ABC LOCALS",US : ABC (WXLV - WINSTON-SALEM)
+http://hostengine.live:25461/live/toolman/toolman/57621.m3u8
+#EXTINF:-1 tvg-id="abc7wxyz.us" tvg-name="US : ABC (WXYZ- DETROIT MI)" tvg-logo="http://wayforward.xyz:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="USA ABC LOCALS",US : ABC (WXYZ- DETROIT MI)
+http://hostengine.live:25461/live/toolman/toolman/54081.m3u8
+#EXTINF:-1 tvg-id="ABC.(WZVN).Fort.Myers,.FL.us" tvg-name="US : ABC (WZVN-FORT MYERS FL)" tvg-logo="http://hostengine.live:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="USA ABC LOCALS",US : ABC (WZVN-FORT MYERS FL)
+http://hostengine.live:25461/live/toolman/toolman/54082.m3u8
+#EXTINF:-1 tvg-id="ABC.(WZZM).Grand.Rapids,.MI.us" tvg-name="US : ABC (WZZM - GRAND RAPIDS)" tvg-logo="http://hostengine.live:25461/images/a20172708a4120cffcc66aa84fce5908.png" group-title="USA ABC LOCALS",US : ABC (WZZM - GRAND RAPIDS)
+http://hostengine.live:25461/live/toolman/toolman/119006.m3u8
+#EXTINF:-1 tvg-id="ABC.(KRGV).Weslaco,.TX.us" tvg-name="US : ABC KRGV  WESLACO TX " tvg-logo="http://n2086.securepoint.io:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="USA ABC LOCALS",US : ABC KRGV  WESLACO TX   
+http://hostengine.live:25461/live/toolman/toolman/57613.m3u8
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="US : ACC NETWORK" tvg-logo="http://n2086.securepoint.io:25461/images/9933a4e0e1d4da0d5c3b0721883dc28d.png" group-title="USA TV",US : ACC NETWORK
+http://hostengine.live:25461/live/toolman/toolman/54856.m3u8
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="US : ACCU WEATHER" tvg-logo="http://wayforward.xyz:25461/images/17af4d3540a61774fd3505abc982747f.png" group-title="USA TV",US : ACCU WEATHER
+http://hostengine.live:25461/live/toolman/toolman/54860.m3u8
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="US : ADULT SWIM" tvg-logo="http://n2086.securepoint.io:25461/images/2e764bae9c20aacade4f63ec3fe75660.png" group-title="USA TV",US : ADULT SWIM
+http://hostengine.live:25461/live/toolman/toolman/54807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AKC TV" tvg-logo="http://wayforward.xyz:25461/images/f19d2d0cce480a1d6b3b9347e2f50084.png" group-title="USA TV",US : AKC TV
+http://hostengine.live:25461/live/toolman/toolman/54825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : ALTITUDE SPORTS" tvg-logo="http://hostengine.live:25461/images/0d6019fb421104033588f3799671f740.png" group-title="PREMIUM SPORTS",US : ALTITUDE SPORTS
+http://hostengine.live:25461/live/toolman/toolman/55051.m3u8
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US : AMC" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC
+http://hostengine.live:25461/live/toolman/toolman/54921.m3u8
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="US : AMC + FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/04517081d1a0c875133940d7c846ad99.png" group-title="USA FULL HD",US : AMC + FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/199591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AMC ABSOLUTE REALITY" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC ABSOLUTE REALITY
+http://hostengine.live:25461/live/toolman/toolman/54882.m3u8
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US : AMC FHD 1080" tvg-logo="http://hostengine.live:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA FULL HD",US : AMC FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AMC IFC FILM PICKS" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC IFC FILM PICKS
+http://hostengine.live:25461/live/toolman/toolman/54883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AMC PRESENTS" tvg-logo="http://hostengine.live:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC PRESENTS
+http://hostengine.live:25461/live/toolman/toolman/54884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AMC RUSH" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC RUSH
+http://hostengine.live:25461/live/toolman/toolman/54885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : AMC SLIGHTLY OFF" tvg-logo="http://wayforward.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="USA TV",US : AMC SLIGHTLY OFF
+http://hostengine.live:25461/live/toolman/toolman/54886.m3u8
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US : AMERICAN HEROES" tvg-logo="http://wayforward.xyz:25461/images/19b7162e52c4dd78604a50586ab206fe.png" group-title="USA TV",US : AMERICAN HEROES
+http://hostengine.live:25461/live/toolman/toolman/54967.m3u8
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US : AMERICAN HEROES FHD 1080" tvg-logo="http://hostengine.live:25461/images/1ff23ff2a5ff608effd7a9fdcb97f15f.png" group-title="USA FULL HD",US : AMERICAN HEROES FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53430.m3u8
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US : ANIMAL PLANET" tvg-logo="http://wayforward.xyz:25461/images/37288e62601868f21fc4f7a49f23e4e5.png" group-title="USA TV",US : ANIMAL PLANET
+http://hostengine.live:25461/live/toolman/toolman/54901.m3u8
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US : ANIMAL PLANET FHD 1080" tvg-logo="http://hostengine.live:25461/images/728379233ae6af8a0f9a9a236cae3715.png" group-title="USA FULL HD",US : ANIMAL PLANET FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53429.m3u8
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US : ANTENNA TV" tvg-logo="http://n2086.securepoint.io:25461/images/787002c734e6a9cce7b5d79dd1cc55bc.png" group-title="USA TV",US : ANTENNA TV
+http://hostengine.live:25461/live/toolman/toolman/54803.m3u8
+#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="US : AT&T SPORTSNET PITTSBURGH" tvg-logo="http://wayforward.xyz:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET PITTSBURGH
+http://hostengine.live:25461/live/toolman/toolman/55052.m3u8
+#EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="US : AT&T SPORTSNET ROCKY MOUNTAINS" tvg-logo="http://hostengine.live:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET ROCKY MOUNTAINS
+http://hostengine.live:25461/live/toolman/toolman/55053.m3u8
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="US : AT&T SPORTSNET SOUTHWEST" tvg-logo="http://hostengine.live:25461/images/65cb21a9aa95c70e09872b26a3aa85f6.png" group-title="PREMIUM SPORTS",US : AT&T SPORTSNET SOUTHWEST
+http://hostengine.live:25461/live/toolman/toolman/55054.m3u8
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US : ATLANTA CHANNEL" tvg-logo="http://wayforward.xyz:25461/images/d60638b5b90712f1fd04697a204add8e.png" group-title="USA TV",US : ATLANTA CHANNEL
+http://hostengine.live:25461/live/toolman/toolman/54953.m3u8
+#EXTINF:-1 tvg-id="awe.us" tvg-name="US : AWE" tvg-logo="http://wayforward.xyz:25461/images/07abdc30d9ea479c66f0af67530a0392.png" group-title="USA TV",US : AWE
+http://hostengine.live:25461/live/toolman/toolman/54819.m3u8
+#EXTINF:-1 tvg-id="awe.us" tvg-name="US : AWE FHD 1080" tvg-logo="http://hostengine.live:25461/images/30ddbf56dcf5de6000aff5a9d6e02527.png" group-title="USA FULL HD",US : AWE FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53432.m3u8
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="US : AXS TV" tvg-logo="http://wayforward.xyz:25461/images/abe85810c77ddc6502a1b8ba88aa094d.png" group-title="USA TV",US : AXS TV
+http://hostengine.live:25461/live/toolman/toolman/54816.m3u8
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="US : AXS TV FHD 1080" tvg-logo="http://hostengine.live:25461/images/64449cf746814f69f77522e377fa2f2b.png" group-title="USA FULL HD",US : AXS TV FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53431.m3u8
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="US : BABY TV FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="USA FULL HD",US : BABY TV FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53425.m3u8
+#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="US : BALLY SPORTS ARIZONA" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS ARIZONA
+http://hostengine.live:25461/live/toolman/toolman/54777.m3u8
+#EXTINF:-1 tvg-id="ballysportsarizonaplus.us" tvg-name="US : BALLY SPORTS ARIZONA PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS ARIZONA PLUS
+http://hostengine.live:25461/live/toolman/toolman/54778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS CAROLINAS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS CAROLINAS
+http://hostengine.live:25461/live/toolman/toolman/54779.m3u8
+#EXTINF:-1 tvg-id="ballysportsohiocincinnati.us" tvg-name="US : BALLY SPORTS CINCINNATI" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS CINCINNATI
+http://hostengine.live:25461/live/toolman/toolman/54780.m3u8
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US : BALLY SPORTS DETROIT" tvg-logo="http://n2086.securepoint.io:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS DETROIT
+http://hostengine.live:25461/live/toolman/toolman/54781.m3u8
+#EXTINF:-1 tvg-id="ballysportsdetroitplus.us" tvg-name="US : BALLY SPORTS DETROIT PLUS" tvg-logo="http://n2086.securepoint.io:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS DETROIT PLUS
+http://hostengine.live:25461/live/toolman/toolman/54782.m3u8
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US : BALLY SPORTS FLORIDA" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS FLORIDA
+http://hostengine.live:25461/live/toolman/toolman/54783.m3u8
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="US : BALLY SPORTS GREAT LAKES" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS GREAT LAKES
+http://hostengine.live:25461/live/toolman/toolman/98349.m3u8
+#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="US : BALLY SPORTS INDIANA" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS INDIANA
+http://hostengine.live:25461/live/toolman/toolman/98350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS INDIANA PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS INDIANA PLUS
+http://hostengine.live:25461/live/toolman/toolman/98352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS KANSAS CITY" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS KANSAS CITY
+http://hostengine.live:25461/live/toolman/toolman/112305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS KANSAS CITY PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS KANSAS CITY PLUS
+http://hostengine.live:25461/live/toolman/toolman/112306.m3u8
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="US : BALLY SPORTS MIDWEST" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS MIDWEST
+http://hostengine.live:25461/live/toolman/toolman/54784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS MIDWEST PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS MIDWEST PLUS
+http://hostengine.live:25461/live/toolman/toolman/97034.m3u8
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="US : BALLY SPORTS NEW ORLEANS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS NEW ORLEANS
+http://hostengine.live:25461/live/toolman/toolman/54785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS NEW ORLEANS PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS NEW ORLEANS PLUS
+http://hostengine.live:25461/live/toolman/toolman/98353.m3u8
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="US : BALLY SPORTS NORTH" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS NORTH
+http://hostengine.live:25461/live/toolman/toolman/54786.m3u8
+#EXTINF:-1 tvg-id="ballysportsnorthplus.us" tvg-name="US : BALLY SPORTS NORTH PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS NORTH PLUS
+http://hostengine.live:25461/live/toolman/toolman/98351.m3u8
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="US : BALLY SPORTS OHIO" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS OHIO
+http://hostengine.live:25461/live/toolman/toolman/54787.m3u8
+#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="US : BALLY SPORTS OKLAHOMA" tvg-logo="http://n2086.securepoint.io:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS OKLAHOMA
+http://hostengine.live:25461/live/toolman/toolman/54788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS OKLAHOMA PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS OKLAHOMA PLUS
+http://hostengine.live:25461/live/toolman/toolman/98355.m3u8
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="US : BALLY SPORTS SAN DIEGO" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SAN DIEGO
+http://hostengine.live:25461/live/toolman/toolman/54790.m3u8
+#EXTINF:-1 tvg-id="foxsportssandiego.us" tvg-name="US : BALLY SPORTS SAN DIEGO PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SAN DIEGO PLUS
+http://hostengine.live:25461/live/toolman/toolman/54792.m3u8
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="US : BALLY SPORTS SOCAL" tvg-logo="http://n2086.securepoint.io:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SOCAL
+http://hostengine.live:25461/live/toolman/toolman/54789.m3u8
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US : BALLY SPORTS SOUTH" tvg-logo="http://n2086.securepoint.io:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SOUTH
+http://hostengine.live:25461/live/toolman/toolman/54793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS SOUTH PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SOUTH PLUS
+http://hostengine.live:25461/live/toolman/toolman/54794.m3u8
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="US : BALLY SPORTS SOUTHEAST" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SOUTHEAST
+http://hostengine.live:25461/live/toolman/toolman/54795.m3u8
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="US : BALLY SPORTS SOUTHWEST" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SOUTHWEST
+http://hostengine.live:25461/live/toolman/toolman/54796.m3u8
+#EXTINF:-1 tvg-id="foxsportssun.us" tvg-name="US : BALLY SPORTS SUN (NORTH FLORIDA)" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SUN (NORTH FLORIDA)
+http://hostengine.live:25461/live/toolman/toolman/54797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS SUN (SOUTH FLORIDA)" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS SUN (SOUTH FLORIDA)
+http://hostengine.live:25461/live/toolman/toolman/58650.m3u8
+#EXTINF:-1 tvg-id="foxsportstennessee.us" tvg-name="US : BALLY SPORTS TENNESSEE" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS TENNESSEE
+http://hostengine.live:25461/live/toolman/toolman/54798.m3u8
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="US : BALLY SPORTS WEST" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS WEST
+http://hostengine.live:25461/live/toolman/toolman/54799.m3u8
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="US : BALLY SPORTS WISCONSIN" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS WISCONSIN
+http://hostengine.live:25461/live/toolman/toolman/54800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BALLY SPORTS WISCONSIN PLUS" tvg-logo="http://hostengine.live:25461/images/4379e350b3d503f8cf7e8b69436d0bfc.png" group-title="FOX/BALLY SPORTS",US : BALLY SPORTS WISCONSIN PLUS
+http://hostengine.live:25461/live/toolman/toolman/98354.m3u8
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US : BBC AMERICA FHD 1080" tvg-logo="http://hostengine.live:25461/images/40fd83186c01e9ecf6b94cc0de4a0a21.png" group-title="USA FULL HD",US : BBC AMERICA FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53428.m3u8
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="US : BBC WORLD NEWS" tvg-logo="http://n2086.securepoint.io:25461/images/85cba1400ff1ad855af1c6c3824b768d.png" group-title="NEWS NETWORKS",US : BBC WORLD NEWS
+http://hostengine.live:25461/live/toolman/toolman/184402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BEACH TV  PAWLEYS ISLAND" tvg-logo="http://wayforward.xyz:25461/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png" group-title="USA TV",US : BEACH TV  PAWLEYS ISLAND
+http://hostengine.live:25461/live/toolman/toolman/54838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BEACH TV - 30A" tvg-logo="http://wayforward.xyz:25461/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png" group-title="USA TV",US : BEACH TV - 30A
+http://hostengine.live:25461/live/toolman/toolman/54840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BEACH TV GULF COAST" tvg-logo="http://wayforward.xyz:25461/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png" group-title="USA TV",US : BEACH TV GULF COAST
+http://hostengine.live:25461/live/toolman/toolman/54868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BEACH TV KEY TV" tvg-logo="http://wayforward.xyz:25461/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png" group-title="USA TV",US : BEACH TV KEY TV
+http://hostengine.live:25461/live/toolman/toolman/54869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : BEACH TV PANAMA CITY" tvg-logo="http://wayforward.xyz:25461/images/51c4f1e1ee496df5ea9cf1268f65b7ce.png" group-title="USA TV",US : BEACH TV PANAMA CITY
+http://hostengine.live:25461/live/toolman/toolman/54839.m3u8
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US : BEIN SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/cdac01407657cbfe2817641ae84e7fcd.png" group-title="PREMIUM SPORTS",US : BEIN SPORTS
+http://hostengine.live:25461/live/toolman/toolman/55055.m3u8
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US : BET" tvg-logo="http://wayforward.xyz:25461/images/21ba295afbd4c4e50e8061542c65a66a.png" group-title="USA TV",US : BET
+http://hostengine.live:25461/live/toolman/toolman/54944.m3u8
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US : BET FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/21ba295afbd4c4e50e8061542c65a66a.png" group-title="USA FULL HD",US : BET FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53427.m3u8
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US : BET HER" tvg-logo="http://wayforward.xyz:25461/images/e8eb32b5d4d2ffc5e0825aa539d8b850.png" group-title="USA TV",US : BET HER
+http://hostengine.live:25461/live/toolman/toolman/54959.m3u8
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US : BET HER FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/e8eb32b5d4d2ffc5e0825aa539d8b850.png" group-title="USA FULL HD",US : BET HER FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53426.m3u8
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="US : BET JAMS" tvg-logo="http://wayforward.xyz:25461/images/97c502f5d33545582c03d6b9e162ac83.png" group-title="USA TV",US : BET JAMS
+http://hostengine.live:25461/live/toolman/toolman/54848.m3u8
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="US : BET SOUL" tvg-logo="http://wayforward.xyz:25461/images/5654e4a2d1393052fa6b7ba2a76b684a.png" group-title="USA TV",US : BET SOUL
+http://hostengine.live:25461/live/toolman/toolman/54847.m3u8
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US : BIG TEN NETWORK" tvg-logo="http://hostengine.live:25461/images/0100a733af1bb4f4467fc0f66b826e41.png" group-title="PREMIUM SPORTS",US : BIG TEN NETWORK
+http://hostengine.live:25461/live/toolman/toolman/55056.m3u8
+#EXTINF:-1 tvg-id="bnc.us" tvg-name="US : BLACK NEWS CHANNEL" tvg-logo="http://n2086.securepoint.io:25461/images/14a469ef6cdf79fe52ba3f528d232402.png" group-title="USA TV",US : BLACK NEWS CHANNEL
+http://hostengine.live:25461/live/toolman/toolman/54880.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US : BLOOMBERG TV" tvg-logo="http://n2086.securepoint.io:25461/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="NEWS NETWORKS",US : BLOOMBERG TV
+http://hostengine.live:25461/live/toolman/toolman/56584.m3u8
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US : BLOOMBERG TV FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="USA FULL HD",US : BLOOMBERG TV FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53424.m3u8
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US : BOUNCE TV" tvg-logo="http://n2086.securepoint.io:25461/images/23a817b7113a86cd2a8ab66fbd16ded9.png" group-title="USA TV",US : BOUNCE TV
+http://hostengine.live:25461/live/toolman/toolman/54957.m3u8
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US : BRAVO" tvg-logo="http://wayforward.xyz:25461/images/85ffe80302daa68797bf4373e2a2a9c3.png" group-title="USA TV",US : BRAVO
+http://hostengine.live:25461/live/toolman/toolman/54909.m3u8
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US : BRAVO FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/85ffe80302daa68797bf4373e2a2a9c3.png" group-title="USA FULL HD",US : BRAVO FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53423.m3u8
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US : BUZZR" tvg-logo="http://n2086.securepoint.io:25461/images/2e1708939f2affe03aba7c9b5af5994c.png" group-title="USA TV",US : BUZZR
+http://hostengine.live:25461/live/toolman/toolman/54806.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US : CARTOON NETWORK FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="USA FULL HD",US : CARTOON NETWORK FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53415.m3u8
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="US : CBN" tvg-logo="http://wayforward.xyz:25461/images/55a7cc1b06198468b54d7d685815be9d.png" group-title="USA TV",US : CBN
+http://hostengine.live:25461/live/toolman/toolman/54873.m3u8
+#EXTINF:-1 tvg-id="cbs2kboi.us" tvg-name="US : CBS (KBOI - Boise)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KBOI - Boise)
+http://hostengine.live:25461/live/toolman/toolman/82880.m3u8
+#EXTINF:-1 tvg-id="cbs9kcal.us" tvg-name="US : CBS (KCAL- Los Angeles CA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KCAL- Los Angeles CA)
+http://hostengine.live:25461/live/toolman/toolman/54083.m3u8
+#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="US : CBS (KCBS TV– Los Angeles CA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KCBS TV– Los Angeles CA)
+http://hostengine.live:25461/live/toolman/toolman/54084.m3u8
+#EXTINF:-1 tvg-id="cbs8kcci.us" tvg-name="US : CBS (KCCI) DES MOINES IOWA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KCCI) DES MOINES IOWA
+http://hostengine.live:25461/live/toolman/toolman/54085.m3u8
+#EXTINF:-1 tvg-id="cbs4kcnc.us" tvg-name="US : CBS (KCNC– Denver CO)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KCNC– Denver CO)
+http://hostengine.live:25461/live/toolman/toolman/54086.m3u8
+#EXTINF:-1 tvg-id="cbs5kctv.us" tvg-name="US : CBS (KCTV– Kansas City MO)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KCTV– Kansas City MO)
+http://hostengine.live:25461/live/toolman/toolman/54088.m3u8
+#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="US : CBS (KDKATV- Pittsburgh PA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KDKATV- Pittsburgh PA)
+http://hostengine.live:25461/live/toolman/toolman/54089.m3u8
+#EXTINF:-1 tvg-id="cbs11kelo.us" tvg-name="US : CBS (KELO- Sioux Falls SD)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KELO- Sioux Falls SD)
+http://hostengine.live:25461/live/toolman/toolman/54090.m3u8
+#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="US : CBS (KENS) SAN ANTONIO TEXAS" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KENS) SAN ANTONIO TEXAS
+http://hostengine.live:25461/live/toolman/toolman/54091.m3u8
+#EXTINF:-1 tvg-id="cbs42keye.us" tvg-name="US : CBS (KEYE) AUSTIN TEXAS" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KEYE) AUSTIN TEXAS
+http://hostengine.live:25461/live/toolman/toolman/54092.m3u8
+#EXTINF:-1 tvg-id="cbs8kfmb.us" tvg-name="US : CBS (KFMB– San Diego CA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KFMB– San Diego CA)
+http://hostengine.live:25461/live/toolman/toolman/54093.m3u8
+#EXTINF:-1 tvg-id="cbs12kfvs.us" tvg-name="US : CBS (KFVS) CAPE GIRARDEAU MISSOURI" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KFVS) CAPE GIRARDEAU MISSOURI
+http://hostengine.live:25461/live/toolman/toolman/54094.m3u8
+#EXTINF:-1 tvg-id="Azteca.(KGBT-DT2).Harlingen,.TX.us" tvg-name="US : CBS (KGBT- HARLINGEN)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KGBT- HARLINGEN)
+http://hostengine.live:25461/live/toolman/toolman/58255.m3u8
+#EXTINF:-1 tvg-id="cbs5kgmb.us" tvg-name="US : CBS (KGMB) HONOLULU HAWAII" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KGMB) HONOLULU HAWAII
+http://hostengine.live:25461/live/toolman/toolman/54095.m3u8
+#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="US : CBS (KHOU- Houston TX)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KHOU- Houston TX)
+http://hostengine.live:25461/live/toolman/toolman/54096.m3u8
+#EXTINF:-1 tvg-id="cbs46kion.us" tvg-name="US : CBS (KION) MONTEREY CALIFORNIA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KION) MONTEREY CALIFORNIA
+http://hostengine.live:25461/live/toolman/toolman/54097.m3u8
+#EXTINF:-1 tvg-id="cbs7kiro.us" tvg-name="US : CBS (KIRO- Seattle WA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KIRO- Seattle WA)
+http://hostengine.live:25461/live/toolman/toolman/54098.m3u8
+#EXTINF:-1 tvg-id="cbs11kktv.us" tvg-name="US : CBS (KKTV) COLORADO SPRINGS COLORADO" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KKTV) COLORADO SPRINGS COLORADO
+http://hostengine.live:25461/live/toolman/toolman/54099.m3u8
+#EXTINF:-1 tvg-id="cbs8klas.us" tvg-name="US : CBS (KLAS- Las Vegas NV)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KLAS- Las Vegas NV)
+http://hostengine.live:25461/live/toolman/toolman/54100.m3u8
+#EXTINF:-1 tvg-id="cbs11wtoc.us" tvg-name="US : CBS (KLJB) SAVANNA" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KLJB) SAVANNA
+http://hostengine.live:25461/live/toolman/toolman/119057.m3u8
+#EXTINF:-1 tvg-id="cbs4kmov.us" tvg-name="US : CBS (KMOV- St. Louis MI)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KMOV- St. Louis MI)
+http://hostengine.live:25461/live/toolman/toolman/54101.m3u8
+#EXTINF:-1 tvg-id="cbs3kmtv.us" tvg-name="US : CBS (KMTV– Omaha NE)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KMTV– Omaha NE)
+http://hostengine.live:25461/live/toolman/toolman/54102.m3u8
+#EXTINF:-1 tvg-id="cbs13kold.us" tvg-name="US : CBS (KOLD) TUCSON ARIZONA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KOLD) TUCSON ARIZONA
+http://hostengine.live:25461/live/toolman/toolman/54103.m3u8
+#EXTINF:-1 tvg-id="CBS.(KOVR).Sacramento,.CA.us" tvg-name="US : CBS (KOVR– Sacramento CA)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KOVR– Sacramento CA)
+http://hostengine.live:25461/live/toolman/toolman/54104.m3u8
+#EXTINF:-1 tvg-id="cbs5kpho.us" tvg-name="US : CBS (KPHO- Phoenix AZ)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KPHO- Phoenix AZ)
+http://hostengine.live:25461/live/toolman/toolman/54105.m3u8
+#EXTINF:-1 tvg-id="cbs5kpix.us" tvg-name="US : CBS (KPIX– San Francisco CA)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KPIX– San Francisco CA)
+http://hostengine.live:25461/live/toolman/toolman/54106.m3u8
+#EXTINF:-1 tvg-id="cbs2krem.us" tvg-name="US : CBS (KREM) SPOKANE WASHINGTON" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KREM) SPOKANE WASHINGTON
+http://hostengine.live:25461/live/toolman/toolman/54107.m3u8
+#EXTINF:-1 tvg-id="cbs13krqe.us" tvg-name="US : CBS (KRQEDT- Albuquerque/Santa Fe NM)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KRQEDT- Albuquerque/Santa Fe NM)
+http://hostengine.live:25461/live/toolman/toolman/54108.m3u8
+#EXTINF:-1 tvg-id="cbs12ksla.us" tvg-name="US : CBS (KSLA) SHREVEPORT LOUISIANA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KSLA) SHREVEPORT LOUISIANA
+http://hostengine.live:25461/live/toolman/toolman/54109.m3u8
+#EXTINF:-1 tvg-id="cbs11kthv.us" tvg-name="US : CBS (KTHV- Little Rock/Pine Bluff AR)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KTHV- Little Rock/Pine Bluff AR)
+http://hostengine.live:25461/live/toolman/toolman/54110.m3u8
+#EXTINF:-1 tvg-id="cbs2ktvn.us" tvg-name="US : CBS (KTVN) RENO NEVADA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KTVN) RENO NEVADA
+http://hostengine.live:25461/live/toolman/toolman/54111.m3u8
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="US : CBS (KTVT- Fort Worth TX)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KTVT- Fort Worth TX)
+http://hostengine.live:25461/live/toolman/toolman/54112.m3u8
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="US : CBS (KTXA- Fort Worth TX)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KTXA- Fort Worth TX)
+http://hostengine.live:25461/live/toolman/toolman/54113.m3u8
+#EXTINF:-1 tvg-id="cbs2kutv.us" tvg-name="US : CBS (KUTV- Salt Lake City/St. George UT)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KUTV- Salt Lake City/St. George UT)
+http://hostengine.live:25461/live/toolman/toolman/54114.m3u8
+#EXTINF:-1 tvg-id="cbs6kauz.us" tvg-name="US : CBS (KWCH– Wichita/Hutchinson KS)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KWCH– Wichita/Hutchinson KS)
+http://hostengine.live:25461/live/toolman/toolman/54115.m3u8
+#EXTINF:-1 tvg-id="cbs9kwtv.us" tvg-name="US : CBS (KWTV- Oklahoma City OK)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KWTV- Oklahoma City OK)
+http://hostengine.live:25461/live/toolman/toolman/54116.m3u8
+#EXTINF:-1 tvg-id="cbs10kwtx.us" tvg-name="US : CBS (KWTX) WACO TEXAS" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KWTX) WACO TEXAS
+http://hostengine.live:25461/live/toolman/toolman/54117.m3u8
+#EXTINF:-1 tvg-id="CBS.(KXMB).Bismarck,.ND.us" tvg-name="US : CBS (KXMB) BISMARCK" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KXMB) BISMARCK
+http://hostengine.live:25461/live/toolman/toolman/119055.m3u8
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="US : CBS (KYW- Philadelphia PA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (KYW- Philadelphia PA)
+http://hostengine.live:25461/live/toolman/toolman/54118.m3u8
+#EXTINF:-1 tvg-id="CBS.(WAFB).Baton.Rouge,.LA.us" tvg-name="US : CBS (WAFB - BATON ROUGE)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WAFB - BATON ROUGE)
+http://hostengine.live:25461/live/toolman/toolman/197521.m3u8
+#EXTINF:-1 tvg-id="cw22wbmm.us" tvg-name="US : CBS (WAKA DT– Montgomery/Selma AL)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WAKA DT– Montgomery/Selma AL)
+http://hostengine.live:25461/live/toolman/toolman/54119.m3u8
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US : CBS (WBBM– Chicago IL)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WBBM– Chicago IL)
+http://hostengine.live:25461/live/toolman/toolman/54120.m3u8
+#EXTINF:-1 tvg-id="CBS.(WBNS).Columbus,.OH.us" tvg-name="US : CBS (WBNS) COLUMBUS" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WBNS) COLUMBUS
+http://hostengine.live:25461/live/toolman/toolman/119054.m3u8
+#EXTINF:-1 tvg-id="cbs3wbtv.us" tvg-name="US : CBS (WBTV- Charlotte NC)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WBTV- Charlotte NC)
+http://hostengine.live:25461/live/toolman/toolman/54121.m3u8
+#EXTINF:-1 tvg-id="CBS.(WBTW).Myrtle.Beach,.SC.us" tvg-name="US : CBS (WBTW - FLORENCE)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WBTW - FLORENCE)
+http://hostengine.live:25461/live/toolman/toolman/170607.m3u8
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="US : CBS (WBZ- Boston MA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WBZ- Boston MA)
+http://hostengine.live:25461/live/toolman/toolman/54122.m3u8
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US : CBS (WCBS- New York NY)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WCBS- New York NY)
+http://hostengine.live:25461/live/toolman/toolman/54123.m3u8
+#EXTINF:-1 tvg-id="cbs4wcco.us" tvg-name="US : CBS (WCCO- Minneapolis MN)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WCCO- Minneapolis MN)
+http://hostengine.live:25461/live/toolman/toolman/54124.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCIA).Champaign,.IL.us" tvg-name="US : CBS (WCIA) CHAMPAIGN IL" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WCIA) CHAMPAIGN IL
+http://hostengine.live:25461/live/toolman/toolman/215508.m3u8
+#EXTINF:-1 tvg-id="cbs5wcsc.us" tvg-name="US : CBS (WCSC- Charleston SC)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WCSC- Charleston SC)
+http://hostengine.live:25461/live/toolman/toolman/54125.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCTV).Tallahassee,.FL.us" tvg-name="US : CBS (WCTV) THOMASVILLE" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WCTV) THOMASVILLE
+http://hostengine.live:25461/live/toolman/toolman/119051.m3u8
+#EXTINF:-1 tvg-id="cbs7wdbj.us" tvg-name="US : CBS (WDBJ) ROANOKE VIRGINIA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WDBJ) ROANOKE VIRGINIA
+http://hostengine.live:25461/live/toolman/toolman/54126.m3u8
+#EXTINF:-1 tvg-id="cbs12wdef.us" tvg-name="US : CBS (WDEF) CHATTANOOGA TENNESSEE" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WDEF) CHATTANOOGA TENNESSEE
+http://hostengine.live:25461/live/toolman/toolman/54127.m3u8
+#EXTINF:-1 tvg-id="cbs58wdjt.us" tvg-name="US : CBS (WDJT) MILWAUKEE WISCONSIN" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WDJT) MILWAUKEE WISCONSIN
+http://hostengine.live:25461/live/toolman/toolman/54128.m3u8
+#EXTINF:-1 tvg-id="cbs2wfmy.us" tvg-name="US : CBS (WFMY) GREENSBORO NORTH CAROLINA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WFMY) GREENSBORO NORTH CAROLINA
+http://hostengine.live:25461/live/toolman/toolman/54129.m3u8
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="US : CBS (WFOR- Miami FL)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WFOR- Miami FL)
+http://hostengine.live:25461/live/toolman/toolman/54130.m3u8
+#EXTINF:-1 tvg-id="cbs3wfsb.us" tvg-name="US : CBS (WFSB- Hartford CT)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WFSB- Hartford CT)
+http://hostengine.live:25461/live/toolman/toolman/58374.m3u8
+#EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="US : CBS (WGCL- Atlanta GA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WGCL- Atlanta GA)
+http://hostengine.live:25461/live/toolman/toolman/54131.m3u8
+#EXTINF:-1 tvg-id="cbs7whio.us" tvg-name="US : CBS (WHIO– Dayton OH)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WHIO– Dayton OH)
+http://hostengine.live:25461/live/toolman/toolman/54132.m3u8
+#EXTINF:-1 tvg-id="cbs19whnt.us" tvg-name="US : CBS (WHNT- Huntsville)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WHNT- Huntsville)
+http://hostengine.live:25461/live/toolman/toolman/100595.m3u8
+#EXTINF:-1 tvg-id="CBS.(WIAT).Birmingham,.AL.us" tvg-name="US : CBS (WIAT - BIRMINGHAM)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WIAT - BIRMINGHAM)
+http://hostengine.live:25461/live/toolman/toolman/199682.m3u8
+#EXTINF:-1 tvg-id="cbs11wink.us" tvg-name="US : CBS (WINK) FORT MYERS FLORIDA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WINK) FORT MYERS FLORIDA
+http://hostengine.live:25461/live/toolman/toolman/54133.m3u8
+#EXTINF:-1 tvg-id="cbs3wisc.us" tvg-name="US : CBS (WISC– Madison WI)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WISC– Madison WI)
+http://hostengine.live:25461/live/toolman/toolman/54134.m3u8
+#EXTINF:-1 tvg-id="cbs4wivb.us" tvg-name="US : CBS (WIVB) BUFFALO NEW YORK" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WIVB) BUFFALO NEW YORK
+http://hostengine.live:25461/live/toolman/toolman/54135.m3u8
+#EXTINF:-1 tvg-id="cbs47wjax.us" tvg-name="US : CBS (WJAX DT– Jacksonville FL)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WJAX DT– Jacksonville FL)
+http://hostengine.live:25461/live/toolman/toolman/54136.m3u8
+#EXTINF:-1 tvg-id="CBS.(WJTV).Jackson,.MS.us" tvg-name="US : CBS (WJTV - JACKSON)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WJTV - JACKSON)
+http://hostengine.live:25461/live/toolman/toolman/58294.m3u8
+#EXTINF:-1 tvg-id="cbs13wjz.us" tvg-name="US : CBS (WJZ– Baltimore MD)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WJZ– Baltimore MD)
+http://hostengine.live:25461/live/toolman/toolman/54137.m3u8
+#EXTINF:-1 tvg-id="cbs8wkbt.us" tvg-name="US : CBS (WKBT) LA CROSSE WISCONSIN" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WKBT) LA CROSSE WISCONSIN
+http://hostengine.live:25461/live/toolman/toolman/54138.m3u8
+#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="US : CBS (WKMG) ORLANDO FLORIDA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WKMG) ORLANDO FLORIDA
+http://hostengine.live:25461/live/toolman/toolman/54139.m3u8
+#EXTINF:-1 tvg-id="cbs12wkrc.us" tvg-name="US : CBS (WKRC- Cincinnati OH)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WKRC- Cincinnati OH)
+http://hostengine.live:25461/live/toolman/toolman/54140.m3u8
+#EXTINF:-1 tvg-id="cbs5wkrg.us" tvg-name="US : CBS (WKRG) MOBILE" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WKRG) MOBILE
+http://hostengine.live:25461/live/toolman/toolman/119056.m3u8
+#EXTINF:-1 tvg-id="cbs27wkyt.us" tvg-name="US : CBS (WKYT– Lexington KY)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WKYT– Lexington KY)
+http://hostengine.live:25461/live/toolman/toolman/54141.m3u8
+#EXTINF:-1 tvg-id="cbs32wlky.us" tvg-name="US : CBS (WLKY) LOUISVILLE KENTUCKY" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WLKY) LOUISVILLE KENTUCKY
+http://hostengine.live:25461/live/toolman/toolman/54142.m3u8
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US : CBS (WLNY- New York NY)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WLNY- New York NY)
+http://hostengine.live:25461/live/toolman/toolman/54143.m3u8
+#EXTINF:-1 tvg-id="cbs13wloxdt2.us" tvg-name="US : CBS (WLOX– GULFPORT MS)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WLOX– GULFPORT MS)
+http://hostengine.live:25461/live/toolman/toolman/98238.m3u8
+#EXTINF:-1 tvg-id="cbs19wltx.us" tvg-name="US : CBS (WLTX) COLUMBIA SOUTH CAROLINA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WLTX) COLUMBIA SOUTH CAROLINA
+http://hostengine.live:25461/live/toolman/toolman/54144.m3u8
+#EXTINF:-1 tvg-id="CBS.(WNCN).Raleigh-Durham,.NC.us" tvg-name="US : CBS (WNCN- RALEIGH)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WNCN- RALEIGH)
+http://hostengine.live:25461/live/toolman/toolman/164021.m3u8
+#EXTINF:-1 tvg-id="cbs5wnem.us" tvg-name="US : CBS (WNEM) BAY CITY MICHIGAN" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WNEM) BAY CITY MICHIGAN
+http://hostengine.live:25461/live/toolman/toolman/54145.m3u8
+#EXTINF:-1 tvg-id="CBS.(WOIO).Cleveland,.OH.us" tvg-name="US : CBS (WOIO – Cleveland, OH)" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WOIO – Cleveland, OH)
+http://hostengine.live:25461/live/toolman/toolman/54146.m3u8
+#EXTINF:-1 tvg-id="CBS.(WOIO).Cleveland,.OH.us" tvg-name="US : CBS (WOIODT– Cleveland/Akron OH)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WOIODT– Cleveland/Akron OH)
+http://hostengine.live:25461/live/toolman/toolman/54147.m3u8
+#EXTINF:-1 tvg-id="cbs12wpri.us" tvg-name="US : CBS (WPRI) PROVIDENCE RHODE ISLAND" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WPRI) PROVIDENCE RHODE ISLAND
+http://hostengine.live:25461/live/toolman/toolman/54148.m3u8
+#EXTINF:-1 tvg-id="cbs12wrdw.us" tvg-name="US : CBS (WRDW) AUGUSTA GEORGIA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WRDW) AUGUSTA GEORGIA
+http://hostengine.live:25461/live/toolman/toolman/54149.m3u8
+#EXTINF:-1 tvg-id="cbs3wreg.us" tvg-name="US : CBS (WREG) MEMPHIS" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WREG) MEMPHIS
+http://hostengine.live:25461/live/toolman/toolman/119050.m3u8
+#EXTINF:-1 tvg-id="CBS.(WRGB).Albany,.NY.us" tvg-name="US : CBS (WRGB) ALBANY" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WRGB) ALBANY
+http://hostengine.live:25461/live/toolman/toolman/112276.m3u8
+#EXTINF:-1 tvg-id="CBS.(WSEE).Erie,.PA.us" tvg-name="US : CBS (WSEE) ERIE PA" tvg-logo="http://n2086.securepoint.io:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WSEE) ERIE PA
+http://hostengine.live:25461/live/toolman/toolman/217552.m3u8
+#EXTINF:-1 tvg-id="cbs10kolr.us" tvg-name="US : CBS (WSHM) SPRINGFIELD" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WSHM) SPRINGFIELD
+http://hostengine.live:25461/live/toolman/toolman/119053.m3u8
+#EXTINF:-1 tvg-id="cbs7wspa.us" tvg-name="US : CBS (WSPA) SPARTANBURG SOUTH CAROLINA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WSPA) SPARTANBURG SOUTH CAROLINA
+http://hostengine.live:25461/live/toolman/toolman/54150.m3u8
+#EXTINF:-1 tvg-id="CBS.(WTKR).Norfolk,.VA.us" tvg-name="US : CBS (WTKR- Hampton)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTKR- Hampton)
+http://hostengine.live:25461/live/toolman/toolman/100596.m3u8
+#EXTINF:-1 tvg-id="cbs11wtol.us" tvg-name="US : CBS (WTOL) TOLEDO OHIO" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTOL) TOLEDO OHIO
+http://hostengine.live:25461/live/toolman/toolman/54151.m3u8
+#EXTINF:-1 tvg-id="CBS.(WTSP).Tampa.Bay,.FL.us" tvg-name="US : CBS (WTSP– Tampa FL)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTSP– Tampa FL)
+http://hostengine.live:25461/live/toolman/toolman/54152.m3u8
+#EXTINF:-1 tvg-id="cbs4wttv.us" tvg-name="US : CBS (WTTV- Indianapolis)" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTTV- Indianapolis)
+http://hostengine.live:25461/live/toolman/toolman/100598.m3u8
+#EXTINF:-1 tvg-id="cbs5wtvf.us" tvg-name="US : CBS (WTVF- Nashville TN)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTVF- Nashville TN)
+http://hostengine.live:25461/live/toolman/toolman/54153.m3u8
+#EXTINF:-1 tvg-id="cbs5wtvh.us" tvg-name="US : CBS (WTVH) SYRACUSE" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTVH) SYRACUSE
+http://hostengine.live:25461/live/toolman/toolman/119052.m3u8
+#EXTINF:-1 tvg-id="cbs6wtvr.us" tvg-name="US : CBS (WTVR) RICHMOND" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WTVR) RICHMOND
+http://hostengine.live:25461/live/toolman/toolman/119049.m3u8
+#EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="US : CBS (WUSA- Washington DC)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WUSA- Washington DC)
+http://hostengine.live:25461/live/toolman/toolman/54154.m3u8
+#EXTINF:-1 tvg-id="cbs8wvlt.us" tvg-name="US : CBS (WVLT) KNOXVILLE TENNESSEE" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WVLT) KNOXVILLE TENNESSEE
+http://hostengine.live:25461/live/toolman/toolman/54155.m3u8
+#EXTINF:-1 tvg-id="cbs3wwaydt2.us" tvg-name="US : CBS (WWAY) WILMINGTON NORTH CAROLINA" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WWAY) WILMINGTON NORTH CAROLINA
+http://hostengine.live:25461/live/toolman/toolman/54156.m3u8
+#EXTINF:-1 tvg-id="cbs62wwj.us" tvg-name="US : CBS (WWJ- Detroit)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WWJ- Detroit)
+http://hostengine.live:25461/live/toolman/toolman/54157.m3u8
+#EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="US : CBS (WWL– New Orleans LA)" tvg-logo="http://wayforward.xyz:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WWL– New Orleans LA)
+http://hostengine.live:25461/live/toolman/toolman/54158.m3u8
+#EXTINF:-1 tvg-id="cbs2kgan.us" tvg-name="US : CBS (WWMT) GRAND RAPIDS" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WWMT) GRAND RAPIDS
+http://hostengine.live:25461/live/toolman/toolman/119048.m3u8
+#EXTINF:-1 tvg-id="cbs22wyou.us" tvg-name="US : CBS (WYOU) SCRANTON PENNSYLVANIA" tvg-logo="http://hostengine.live:25461/images/0cea9d4f9bf3a449d5dd78889c8fe61d.png" group-title="USA CBS LOCALS",US : CBS (WYOU) SCRANTON PENNSYLVANIA
+http://hostengine.live:25461/live/toolman/toolman/54159.m3u8
+#EXTINF:-1 tvg-id="cbs5wnem.us" tvg-name="US : CBS NEWS BAY AREA" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS BAY AREA
+http://hostengine.live:25461/live/toolman/toolman/54160.m3u8
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="US : CBS NEWS BOSTON" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS BOSTON
+http://hostengine.live:25461/live/toolman/toolman/54161.m3u8
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="US : CBS NEWS CHICAGO" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS CHICAGO
+http://hostengine.live:25461/live/toolman/toolman/54162.m3u8
+#EXTINF:-1 tvg-id="cbs21ktxa.us" tvg-name="US : CBS NEWS DALLAS FORT WORTH" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS DALLAS FORT WORTH
+http://hostengine.live:25461/live/toolman/toolman/54163.m3u8
+#EXTINF:-1 tvg-id="cbs4kcnc.us" tvg-name="US : CBS NEWS DENVER" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS DENVER
+http://hostengine.live:25461/live/toolman/toolman/54164.m3u8
+#EXTINF:-1 tvg-id="cbs2kcbs.us" tvg-name="US : CBS NEWS LOS ANGELES" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS LOS ANGELES
+http://hostengine.live:25461/live/toolman/toolman/54165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CBS NEWS MINNESOTA" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS MINNESOTA
+http://hostengine.live:25461/live/toolman/toolman/54166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CBS NEWS NATIONAL" tvg-logo="http://n2086.securepoint.io:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS NATIONAL
+http://hostengine.live:25461/live/toolman/toolman/54167.m3u8
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="US : CBS NEWS NEW YORK" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS NEW YORK
+http://hostengine.live:25461/live/toolman/toolman/54168.m3u8
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="US : CBS NEWS PHILADELPHIA" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS PHILADELPHIA
+http://hostengine.live:25461/live/toolman/toolman/54169.m3u8
+#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="US : CBS NEWS PITTSBURGH" tvg-logo="http://wayforward.xyz:25461/images/0034215df50134d1aa492c9299ccbdc1.png" group-title="NEWS NETWORKS",US : CBS NEWS PITTSBURGH
+http://hostengine.live:25461/live/toolman/toolman/54170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CBS SPORTS HQ" tvg-logo="http://n2086.securepoint.io:25461/images/b33779c739fa3627ea30ec86e75fd9b5.png" group-title="PREMIUM SPORTS",US : CBS SPORTS HQ
+http://hostengine.live:25461/live/toolman/toolman/55057.m3u8
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS NETWORK" tvg-logo="http://wayforward.xyz:25461/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="PREMIUM SPORTS",US : CBS SPORTS NETWORK
+http://hostengine.live:25461/live/toolman/toolman/55058.m3u8
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US : CBS SPORTS NETWORK FHD 1080" tvg-logo="http://hostengine.live:25461/images/3ded700a544a255a3ec832e58fa91aa1.png" group-title="USA FULL HD",US : CBS SPORTS NETWORK FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53420.m3u8
+#EXTINF:-1 tvg-id="charge.us" tvg-name="US : CHARGE" tvg-logo="http://wayforward.xyz:25461/images/26426ecc80d9e3a2e58de9e61fb66aac.png" group-title="USA TV",US : CHARGE
+http://hostengine.live:25461/live/toolman/toolman/54831.m3u8
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="US : CHEDDAR" tvg-logo="http://wayforward.xyz:25461/images/ea4239df5d19c395ce18b8a9f6b08f06.png" group-title="USA TV",US : CHEDDAR
+http://hostengine.live:25461/live/toolman/toolman/54811.m3u8
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="US : CHEDDAR BUSINESS" tvg-logo="http://wayforward.xyz:25461/images/9859e76bb2bf1062903cd094356b21a9.png" group-title="USA TV",US : CHEDDAR BUSINESS
+http://hostengine.live:25461/live/toolman/toolman/54832.m3u8
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="US : CHEDDAR BUSINESS FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="USA FULL HD",US : CHEDDAR BUSINESS FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CHEDDAR NEWS" tvg-logo="http://wayforward.xyz:25461/images/5bccd6f43d4e26761bc38050bc762eb2.png" group-title="NEWS NETWORKS",US : CHEDDAR NEWS
+http://hostengine.live:25461/live/toolman/toolman/56585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CHEDDAR NEWS FHD 1080" tvg-logo="http://hostengine.live:25461/images/0cde4373abc1058402b3a07835fe09a8.png" group-title="USA FULL HD",US : CHEDDAR NEWS FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53413.m3u8
+#EXTINF:-1 tvg-id="christiantelevisionnetwork.us" tvg-name="US : CHRISTIAN TELEVISION NETWORK" tvg-logo="http://wayforward.xyz:25461/images/2d712d87cfe5c7a30d9562a2ad2aa630.png" group-title="USA TV",US : CHRISTIAN TELEVISION NETWORK
+http://hostengine.live:25461/live/toolman/toolman/54875.m3u8
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US : CINEMAX EAST FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/7921550ec34f00be0860d47b42b21c04.png" group-title="USA FULL HD",US : CINEMAX EAST FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53412.m3u8
+#EXTINF:-1 tvg-id="cleo.us" tvg-name="US : CLEO TV FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/35e06fce2a6365719ef6fefc23d60ac7.png" group-title="USA FULL HD",US : CLEO TV FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/119166.m3u8
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="US : CMT" tvg-logo="http://wayforward.xyz:25461/images/2287ea63da2ab9d61e57707c64a72ba9.png" group-title="USA TV",US : CMT
+http://hostengine.live:25461/live/toolman/toolman/54951.m3u8
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="US : CMT FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/ce3dbf0b91a6394431767c84c50c94e8.png" group-title="USA FULL HD",US : CMT FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53419.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC" tvg-logo="http://wayforward.xyz:25461/images/17c6cdfa9240e3ca5f6e9dd2ef3d0441.png" group-title="NEWS NETWORKS",US : CNBC
+http://hostengine.live:25461/live/toolman/toolman/56586.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US : CNBC FHD 1080" tvg-logo="http://hostengine.live:25461/images/4dd5c8598b68e5afa6bf1b106f7c4000.png" group-title="USA FULL HD",US : CNBC FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53418.m3u8
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US : CNBC WORLD" tvg-logo="http://wayforward.xyz:25461/images/8e73a8b6152376af322c16a42571885b.png" group-title="NEWS NETWORKS",US : CNBC WORLD
+http://hostengine.live:25461/live/toolman/toolman/56587.m3u8
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US : CNBC WORLD FHD 1080" tvg-logo="http://hostengine.live:25461/images/8e73a8b6152376af322c16a42571885b.png" group-title="USA FULL HD",US : CNBC WORLD FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53417.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US : CNN" tvg-logo="http://n2086.securepoint.io:25461/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="NEWS NETWORKS",US : CNN
+http://hostengine.live:25461/live/toolman/toolman/56588.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US : CNN FHD 1080" tvg-logo="http://hostengine.live:25461/images/7e63557e7d6a2d4c7d407c284a1d0d1d.png" group-title="USA FULL HD",US : CNN FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53416.m3u8
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US : COMEDY CENTRAL" tvg-logo="http://wayforward.xyz:25461/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="USA TV",US : COMEDY CENTRAL
+http://hostengine.live:25461/live/toolman/toolman/54900.m3u8
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US : COMEDY CENTRAL FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/0dfa8ccc49357707d212746f5739fdec.png" group-title="USA FULL HD",US : COMEDY CENTRAL FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53411.m3u8
+#EXTINF:-1 tvg-id="comedytv.us" tvg-name="US : COMEDY TV" tvg-logo="http://wayforward.xyz:25461/images/379ba5e0c25c609f46a0d39c07495783.png" group-title="USA TV",US : COMEDY TV
+http://hostengine.live:25461/live/toolman/toolman/54862.m3u8
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US : COMET FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/cf1118b87e0f81bb2da5710dc18a2dec.png" group-title="USA FULL HD",US : COMET FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53436.m3u8
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US : COMET TV" tvg-logo="http://wayforward.xyz:25461/images/4b525fc7a9098015d955968c92947e80.png" group-title="USA TV",US : COMET TV
+http://hostengine.live:25461/live/toolman/toolman/54830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US : CONTV" tvg-logo="http://wayforward.xyz:25461/images/22bf54d7e3ea0f30cef376f44825ff58.png" group-title="USA TV",US : CONTV
+http://hostengine.live:25461/live/toolman/toolman/54846.m3u8
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US : COOKING CHANNEL" tvg-logo="http://wayforward.xyz:25461/images/b19f9eac6b6e84274fe9ffd1b0bb4904.png" group-title="USA TV",US : COOKING CHANNEL
+http://hostengine.live:25461/live/toolman/toolman/54893.m3u8
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US : COOKING CHANNEL FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/4a3c252029da98f81a8a04db411efba7.png" group-title="USA FULL HD",US : COOKING CHANNEL FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53410.m3u8
+#EXTINF:-1 tvg-id="court.us" tvg-name="US : COURT TV" tvg-logo="http://wayforward.xyz:25461/images/ae8a4ef43a3ec639bab5f5261fea6912.png" group-title="USA TV",US : COURT TV
+http://hostengine.live:25461/live/toolman/toolman/54870.m3u8
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="US : COZI TV" tvg-logo="http://wayforward.xyz:25461/images/b27f89b177f13071dcac9262630a1888.png" group-title="USA TV",US : COZI TV
+http://hostengine.live:25461/live/toolman/toolman/54965.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="US : CRIME & INVESTIGATION" tvg-logo="http://wayforward.xyz:25461/images/615332a46677808b4941a8723f713fa8.png" group-title="USA TV",US : CRIME & INVESTIGATION
+http://hostengine.live:25461/live/toolman/toolman/54945.m3u8
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="US : CSPAN 1" tvg-logo="http://wayforward.xyz:25461/images/e48f93bb225015d64af95220587f81aa.png" group-title="NEWS NETWORKS",US : CSPAN 1
+http://hostengine.live:25461/live/toolman/toolman/56589.m3u8
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="US : CSPAN 1 FHD 1080" tvg-logo="http://hostengine.live:25461/images/e48f93bb225015d64af95220587f81aa.png" group-title="USA FULL HD",US : CSPAN 1 FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53422.m3u8
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="US : CSPAN 2" tvg-logo="http://wayforward.xyz:25461/images/b27cedaf0ff83525403980572ea93543.png" group-title="NEWS NETWORKS",US : CSPAN 2
+http://hostengine.live:25461/live/toolman/toolman/56590.m3u8
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="US : CSPAN 2 FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/e48f93bb225015d64af95220587f81aa.png" group-title="USA FULL HD",US : CSPAN 2 FHD 1080
+http://hostengine.live:25461/live/toolman/toolman/53421.m3u8
+  
