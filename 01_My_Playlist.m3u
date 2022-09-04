@@ -63,11 +63,14 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CAD",17 Science
 http://quality-restream.com:8080/Fullitalia/52806fdf/2583
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcbFIh.Historia.png" group-title="CAD",18 HISTORIA HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcbFIh.Historia.png" group-title="CAD",18 HISTORIA HD ( Piccolo )
 http://mivacuna-sispro.info:8888/13/13/96499
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcYJMa.Moicie.png" group-title="CAD",18 Moi & Cie
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcYJMa.Moicie.png" group-title="CAD",18 Moi & Cie ( Piccolo )
 http://mivacuna-sispro.info:8888/13/13/96510
+
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/Oc8ZLG.Zeste.png" group-title="CAD",18 Zeste ( Piccolo )
+http://mivacuna-sispro.info:8888/13/13/96517
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QImS.png" group-title="CAD",18 Z-Tele
 http://quality-restream.com:8080/Fullitalia/52806fdf/290653
