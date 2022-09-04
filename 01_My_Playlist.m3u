@@ -69,6 +69,9 @@ http://quality-restream.com:8080/Fullitalia/52806fdf/2583
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",18 Pluto Space (iptvlist.ml)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",18 Pluto Science (iptvlist.ml)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
+
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcbFIh.Historia.png" group-title="CAD",18 HISTORIA HD ( Piccolo )
 http://mivacuna-sispro.info:8888/13/13/96499
 
