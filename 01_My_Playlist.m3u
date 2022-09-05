@@ -111,10 +111,10 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",70 CNBC Economie ok (mieux que les autre)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8263
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",71 CNBC Economie
-http://quality-restream.com:8080/Fullitalia/52806fdf/9221
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Europe (iptvcat PT)
+http://red.ipfox.org:8080/osama2022/osama2023/49244?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Europe (iptvcat)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Europe (iptvcat NL)
 http://red.ipfox.org:8080/osama2022/osama2023/49058?checkedby:iptvcat.com
 
 
