@@ -103,7 +103,10 @@ http://tv.trexiptv.com:80/live/mark/12345/111540.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uA4iN4.png" group-title="WORLD NEWS",24 TRT World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
------------
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",70 CNBC Economie ok (mieux que les autre)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8263
@@ -111,13 +114,8 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8263
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",71 CNBC Economie
 http://quality-restream.com:8080/Fullitalia/52806fdf/9221
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Economie
-http://titanlivetv.com:8080/live/8cEW8XH37tDT/GP4qLxWhcCkd/8052.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Economie iptvcat
-https://list.iptvcat.com/my_list/s/b139b336d6d1ad09071e743d6aa90514.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC (iptvcat)
+https://list.iptvcat.com/my_list/s/3b114d8cc13f40c149a31984e6b2ba24.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",73 Just For Laughs (albo2000)
