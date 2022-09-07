@@ -52,7 +52,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",16 NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-###(https://fir.gcn.net.tw/iptv-org/)
+###Fox61 & Fox64 is from this site(https://fir.gcn.net.tw/iptv-org/)
 
 #EXTINF:-1, tvg-logo="https://i.im.ge/2022/09/07/OKbyza.Fox61.jpg" group-title="WORLD NEWS",17 Fox 61 
 http://mains.services:2086/A.Jones01/1904550/252?checkedby:iptvcat.com
@@ -61,7 +61,8 @@ http://mains.services:2086/A.Jones01/1904550/252?checkedby:iptvcat.com
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",18 Fox News (iptvcat ca)
-http://mains.services:2086/A.Jones01/1904550/3252?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/f1bca44f6a944d1597986826897dae82.m3u8
+###http://mains.services:2086/A.Jones01/1904550/3252?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",16 Fox New now (samsungus)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
