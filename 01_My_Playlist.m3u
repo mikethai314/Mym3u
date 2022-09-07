@@ -9,102 +9,85 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN (Opt-2) [Geo-blocked]( Piccolo )
 http://quality-restream.com:8080/Fullitalia/52806fdf/9300
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/Ocxcup.Ici-2.png" group-title="CAD",03 ICI Tele [Geo-blocked]( Piccolo )
-http://mivacuna-sispro.info:8888/13/13/127297
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="CAD",04 Tele-Quebec HD
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.im.ge/2022/09/04/OcRTsh.Discovery.png" group-title="CAD",04 Discovey Science ( Sur iptvcat )
-http://mains.services:2086/A.Jones01/1904550/3263?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZAz5Df.png" group-title="CAD",05 Tele V Noovo
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",05 RT-NEWS (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",06 Just For Laughs (albo2000)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+
+
+
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",07 RT-NEWS (Opt-1)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",05 RT-NEWS (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",08 RT-NEWS (Opt-2)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/05/O8EXAW.RT-France.png" group-title="WORLD NEWS",06 RT-France (Opt-4)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/05/O8EXAW.RT-France.png" group-title="WORLD NEWS",09 RT-France (Opt-4)
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",07 CNN (International) (Opt-1)
+
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",10 CNN (International) (Opt-1)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",08 CNN (International (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",11 CNN (International (Opt-2)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",09 CNN (US) (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",12 CNN (US) (Opt-3)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",10 CNN (US) (Opt-4)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",13 CNN (US) (Opt-4)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",11 CNN (US) (Opt-5)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",14 CNN (US) (Opt-5)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uA4iN4.png" group-title="WORLD NEWS",12 TRT World News
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uA4iN4.png" group-title="WORLD NEWS",15 TRT World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",13 NBC News Now HD
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",16 NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",14 Fox News Channel (iptvcat us)
+#EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",17 Fox News Channel (iptvcat us)
 http://mains.services:2086/A.Jones01/1904550/252?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",15 Fox News (iptvcat ca)
+#EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",18 Fox News (iptvcat ca)
 http://mains.services:2086/A.Jones01/1904550/3252?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",16 Fox New now (samsungus)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",17 Fox New now  (vizio)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",19 Fox New now  (vizio)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg" group-title="CAD",18 Science
-http://mains.services:2086/A.Jones01/1904550/64094?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",19 Pluto Space (iptvlist.ml)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",20 Pluto Space (iptvlist.ml)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",20 Pluto Science (iptvlist.ml)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",21 Pluto Science (iptvlist.ml)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcbFIh.Historia.png" group-title="CAD",21 HISTORIA HD ( Piccolo )
-http://mivacuna-sispro.info:8888/13/13/96499
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcYJMa.Moicie.png" group-title="CAD",22 Moi & Cie ( Piccolo )
-http://mivacuna-sispro.info:8888/13/13/96510
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/Oc8ZLG.Zeste.png" group-title="CAD",23 Zeste ( Piccolo )
-http://mivacuna-sispro.info:8888/13/13/96517
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="CAD",24 Tele-Quebec HD
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZAz5Df.png" group-title="CAD",25 Tele V Noovo
-https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",73 Just For Laughs (albo2000)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",26 Bloomberg USA marche pas bien
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",22 Bloomberg USA marche pas bien
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",27 Bloomberg UK
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",23 Bloomberg UK
 http://tv.trexiptv.com:80/live/mark/12345/111540.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",70 CNBC Economie ok (mieux que les autre)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",24 CNBC Economie ok (mieux que les autre)
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8263
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Europe (iptvcat PT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",25 CNBC Europe (iptvcat PT)
 http://red.ipfox.org:8080/osama2022/osama2023/49244?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",72 CNBC Europe (iptvcat NL)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="WORLD NEWS",26 CNBC Europe (iptvcat NL)
 http://red.ipfox.org:8080/osama2022/osama2023/49058?checkedby:iptvcat.com
 
 
