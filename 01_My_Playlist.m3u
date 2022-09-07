@@ -10,6 +10,10 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN (Opt-2) [Geo-blocked]
 http://quality-restream.com:8080/Fullitalia/52806fdf/9300
 
+###sur https://fir.gcn.net.tw/iptv-org/language/
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Tseq.png" group-title="CAD",03 TVA [Geo-blocked]
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)
+
 ###sur https://fir.gcn.net.tw/iptv-org/ Canada
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/Ocxcup.Ici-2.png" group-title="CAD",03 ICI Tele
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
