@@ -52,12 +52,12 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",16 NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-(https://fir.gcn.net.tw/iptv-org/)
+###(https://fir.gcn.net.tw/iptv-org/)
 
 #EXTINF:-1, tvg-logo="https://i.im.ge/2022/09/07/OKbyza.Fox61.jpg" group-title="WORLD NEWS",17 Fox 61 
 http://mains.services:2086/A.Jones01/1904550/252?checkedby:iptvcat.com
 
-#EXTINF:-1, tvg-logo="https://i.im.ge/2022/09/07/OKc7XS.Fox54.png" group-title="WORLD NEWS",17 Fox 54
+#EXTINF:-1, tvg-logo="https://i.im.ge/2022/09/07/OKctGC.Fox54.png" group-title="WORLD NEWS",17 Fox 54
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.im.ge/2022/07/05/u0MpFY.png" group-title="WORLD NEWS",18 Fox News (iptvcat ca)
