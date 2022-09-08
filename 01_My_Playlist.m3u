@@ -6,18 +6,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-###Piccolo
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN [Geo-blocked]
-http://quality-restream.com:8080/Fullitalia/52806fdf/9300
-
-###sur https://fir.gcn.net.tw/iptv-org/language/
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Tseq.png" group-title="CAD",03 TVA [Geo-blocked]
-https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)
-
-###sur https://fir.gcn.net.tw/iptv-org/ Canada
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/Ocxcup.Ici-2.png" group-title="CAD",03 ICI Tele
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="CAD",04 Tele-Quebec HD
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
@@ -31,9 +19,6 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 ###(albo2000)
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",06 Just For Laughs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.im.ge/2022/09/07/OKfV1F.CTV-News.png" group-title="CAD",07 CTV News
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",07 RT-NEWS (Opt-1)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
