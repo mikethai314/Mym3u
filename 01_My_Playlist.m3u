@@ -46,6 +46,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checke
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",14 CNN (US) (Opt-5)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0tYm.DW-news.jpg" group-title="WORLD NEWS",15 TRT World News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uA4iN4.png" group-title="WORLD NEWS",15 TRT World News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
