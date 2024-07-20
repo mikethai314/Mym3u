@@ -17,7 +17,7 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 
 ###sur https://fir.gcn.net.tw/iptv-org/language/ france
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OKHutW.cnews.png" group-title="CAD",05 CNEWS
- http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 
 ###(albo2000)
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",06 Just For Laughs
@@ -92,7 +92,7 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 http://tv.trexiptv.com:80/live/mark/12345/111540.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",24 CNBC Economie ok (mieux que les autre)
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/8263
+https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
 
 ###(iptvcat PT)
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",25 CNBC Europe
