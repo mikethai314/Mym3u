@@ -32,21 +32,15 @@ https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/05/O8EXAW.RT-France.png" group-title="WORLD NEWS",09 RT-France (Opt-4)
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
-
-#EXTINF:0,10 CNN (International) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",10 CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://i.im.ge/2022/09/07/OKRH6P.Fox-West-Texas.png" group-title="WORLD NEWS" - 11 Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 #EXTINF:0,11 BBC
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",12 CNN (US) (Opt-3)
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",13 CNN (US) (Opt-4)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",14 CNN (US) (Opt-5)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0tYm.DW-news.jpg" group-title="WORLD NEWS",15 DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -63,8 +57,6 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:0, tvg-logo="https://i.im.ge/2022/09/07/OKctGC.Fox54.png" group-title="WORLD NEWS" - 17 Fox 54 ( Not Good )
 https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
 
-#EXTINF:0, tvg-logo="https://i.im.ge/2022/09/07/OKRH6P.Fox-West-Texas.png" group-title="WORLD NEWS" - 18 Fox News
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 ###(samsungus)
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",19 Fox New now
