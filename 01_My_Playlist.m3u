@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OKBvcF.RDI.png" group-title="CAD",01 Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Q1Uc.png" group-title="CAD",03 ICI Montreal (720p)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Q1Uc.png" group-title="CAD",03 ICI Montreal
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN [Geo-blocked]
@@ -80,20 +80,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",22 Bloomberg USA marche pas bien
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",23 Bloomberg UK
-http://tv.trexiptv.com:80/live/mark/12345/111540.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",23 Bloomberg Europe
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV + (2160p)
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",24 CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",25 CNBC Economie ok (Other)
-https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",25 CNBC Europe
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
-
-###(iptvcat PT)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",25 CNBC Europe [Geo-blocked]
-https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",25 CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",FOX Business (1080p)
 http://41.205.93.154/FOXBUSINESS/index.m3u8
