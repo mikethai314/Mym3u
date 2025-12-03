@@ -19,6 +19,9 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/mani
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OKHutW.cnews.png" group-title="CAD",05 CNEWS
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",05 BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
 ###(albo2000)
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",06 Just For Laughs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
