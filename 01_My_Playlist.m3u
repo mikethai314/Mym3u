@@ -104,9 +104,12 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",31 Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",32 Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",33 Sky News (iptv-org)
+
+#  (iptv-org)
+#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",33 Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
