@@ -99,7 +99,7 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",27 CNBC World
 https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",28 FOX Business (1080p)
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",28 FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 
