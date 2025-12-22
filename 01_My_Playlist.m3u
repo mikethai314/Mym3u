@@ -3,119 +3,96 @@
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1LTFBoZZMVW2YJCFWUWLnrOsXB26nvISd" group-title="CAD",01 Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0Q1Uc.png" group-title="CAD",02 ICI Montreal
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10zhKep9ojbNnCEnfH8XC4EhjkChcAatW" group-title="CAD",02 ICI Montreal
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QRwr.jpg" group-title="CAD",03 LCN [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11EE49MXa7g8g1XbO0AXEluHrpnR6ys7J" group-title="CAD",03 LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C3LheXq.png" group-title="CAD",04 Tele-Quebec HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drive.google.com/uc?export=view&id=1UULWh6x6dlpxTBenx-i2cYNQ3o7hjX5j" group-title="CAD",04 Tele-Quebec HD
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QLWz.png" group-title="CAD",05 Tele V Noovo
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1C5mPxhG9CsHae20mf5dVVoCwG5w4iB1c" group-title="CAD",05 Tele V Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 
 ###sur https://fir.gcn.net.tw/iptv-org/language/ france
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OKHutW.cnews.png" group-title="CAD",05 CNEWS
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JiEmNa-Bqx14hatN4xhcs9cULwT5HW4q" group-title="CAD",05 CNEWS
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",05 BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://drive.google.com/uc?export=view&id=1tsuom-p_G6nRiYtMtlLqAwEm4mu9AFl2" group-title="News",05 BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",05 LCI HD
+#EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://drive.google.com/uc?export=view&id=1ZNAwYxO9jmeWdEWlt1T9yDEaC3VYI_5R" group-title="News",05 LCI HD
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
 
 ###(albo2000)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/31/FNYZyP.Just-For-Laughs.jpg" group-title="CAD",06 Just For Laughs
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gcnHUUexZ5GjcPWCGAeZ0IKFsNmyw3EN" group-title="CAD",06 Just For Laughs
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",07 RT-NEWS
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",07 RT-NEWS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QazJ.png" group-title="WORLD NEWS",08 RT-NEWS
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",08 RT-NEWS
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/05/O8EXAW.RT-France.png" group-title="WORLD NEWS",09 RT-France
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WJaIaOpQxO6U7eiToE_ic_HQOvyRknSM" group-title="WORLD NEWS",09 RT-France
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0MtLL.png" group-title="WORLD NEWS",10 CNN
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eeSGi3TkmEDHFX6IvHWY_YcCDnzfuK7c" group-title="WORLD NEWS",10 CNN
 https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieiKz.png" group-title="WORLD NEWS",11 Fox-News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1zLOM-xiQZeP7pL8hLJgFdSe3rl4gfPui" group-title="WORLD NEWS",11 Fox-News
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1drv.ms/i/s!AsuhVSfP2sT0gXeztAqy9-PYlqTr?e=45ru4k" group-title="WORLD NEWS",12 BBC-News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=146Ewn2VRw587_N1p9VXHFOg5pQV9zfF0" group-title="WORLD NEWS",12 BBC-News
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 
 
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://drive.google.com/uc?export=view&id=120RhCZfqxqIRXbBcEpZvwA9oN6OKtxlY" group-title="News",13 ABC News
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0tYm.DW-news.jpg" group-title="WORLD NEWS",15 DW News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1mwZd0d30OVxXOhq2FsvAW86UnHNB8w-l" group-title="WORLD NEWS",15 DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uA4iN4.png" group-title="WORLD NEWS",15 TRT News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=106hXoKYItF3a7KOnEsXyfz_Lk3h1nUzT" group-title="WORLD NEWS",15 TRT News
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",15 Sky News
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ohBWJjH1XjJ63X32wwIdtbXok1Mcf7dq" group-title="WORLD NEWS",15 Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/u0QS4G.jpg" group-title="WORLD NEWS",16 NBC News
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GLi0ygBcy8LqPT3wgOTBOo1JXs23LaR7" group-title="WORLD NEWS",16 NBC News
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OKctGC.Fox54.png" group-title="WORLD NEWS",17 Fox 54
-https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
-
-
-###(samsungus)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",19 Fox New now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 ###(vizio)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/05/uieJDG.jpg" group-title="WORLD NEWS",20 Fox New now
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1fPA2OsE7nW8_MoKkP63eXFQT2J20MFnD" group-title="WORLD NEWS",20 Fox New now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-
-
 ### (iptvlist.ml)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",20 Pluto Space
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10l38vMO054C3eFTAZZBaI7RNnW_U8ZWu" group-title="WORLD NEWS",20 Pluto Space
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/04/OcZ790.PlutoScience.jpg" group-title="WORLD NEWS",21 Pluto Science
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gRfFVoRMsmp15ixD9TYVkylL2g35Mw09" group-title="WORLD NEWS",21 Pluto Science
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
 
-
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",22 Bloomberg USA
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1wI0jT7g5IycsxH5YytLleE-XJGvQxGAK" group-title="WORLD NEWS",22 Bloomberg USA
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/07/06/uAH5sT.png" group-title="WORLD NEWS",23 Bloomberg Europe
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1HNF081B4ZZCID0ZwJmtb1EET_hbSCyTR" group-title="WORLD NEWS",23 Bloomberg Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",24 Bloomberg TV
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-logo="https://drive.google.com/uc?export=view&id=18Y4qDYxfvdc2RLsXSkmgIni1807MOfiv" group-title="Business",24 Bloomberg TV
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1uUBM4XBGENRsN8mDTEwXHX6Po82rae_C" group-title="WORLD NEWS",25 CNBC
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=YUHNNjLuWSR5eLZdlWCKI3hyb4fm_" group-title="WORLD NEWS",25 CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",26 CNBC Europe
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yTPMvHRUiO05AUVy1Co0tDfjZY4qdvEx" group-title="WORLD NEWS",26 CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/09/07/OK4XPM.CNBC.png" group-title="WORLD NEWS",27 CNBC World
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lIjzPsP0mdo-1acUiDaTATzXnKbHFjs-" group-title="WORLD NEWS",27 CNBC World
 https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="Business",28 FOX Business
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-logo="https://drive.google.com/uc?export=view&id=1NSPRtg7grUi5nEa-H4Z091AIhsR79PJt" group-title="Business",28 FOX Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",31 Sky News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
-
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",32 Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-
-#  (iptv-org)
-#EXTINF:-1 tvg-logo="https://i.im.ge/2022/10/01/1g0VaS.Sky-News.png" group-title="WORLD NEWS",33 Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
