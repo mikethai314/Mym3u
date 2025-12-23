@@ -43,6 +43,7 @@ https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1zLOM-xiQZeP7pL8hLJgFdSe3rl4gfPui" group-title="WORLD NEWS",11 Fox-News
 https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+# FoxNewsChannel.us
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=146Ewn2VRw587_N1p9VXHFOg5pQV9zfF0" group-title="WORLD NEWS",12 BBC-News
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
