@@ -52,9 +52,9 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://drive.google.com/uc?export=view&id=120RhCZfqxqIRXbBcEpZvwA9oN6OKtxlY" group-title="News",13 ABC News
 https://c.mjh.nz/abc-news.m3u8
 
-#CBS News 24/7
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1R78yuXOhkvYVWu--UPKoXM1GawcGgB7y" group-title="WORLD NEWS",14 CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+#CBS News new York
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1R78yuXOhkvYVWu--UPKoXM1GawcGgB7y" group-title="WORLD NEWS",14 CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1mwZd0d30OVxXOhq2FsvAW86UnHNB8w-l" group-title="WORLD NEWS",15 DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
