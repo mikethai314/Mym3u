@@ -36,7 +36,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WJaIaOpQxO6U7eiToE_ic_HQOvyRknSM" group-title="WORLD NEWS",09 RT-France
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eeSGi3TkmEDHFX6IvHWY_YcCDnzfuK7c" group-title="WORLD NEWS",10 CNN
 https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
