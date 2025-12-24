@@ -32,7 +32,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e600071
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",07 RT-NEWS
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#this is the link > https://github.com/PrinzMichiDE/iptv-kodi-german/blob/master/iptvde.m3u8
+#this is the link > https://github.com/iptv-org/iptv/blob/master/streams/ru_rt.m3u
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",08 RT-NEWS
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
