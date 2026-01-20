@@ -9,6 +9,9 @@ https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11EE49MXa7g8g1XbO0AXEluHrpnR6ys7J" group-title="CAD",03 LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1sFdx5S1O208ayeXGUZ9CDr8yYkbFwmiY" group-title="CAD",03 TVA [Geo-blocked]
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drive.google.com/uc?export=view&id=1UULWh6x6dlpxTBenx-i2cYNQ3o7hjX5j" group-title="CAD",04 Tele-Quebec HD
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
