@@ -40,6 +40,10 @@ https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1SXBZtrma0RfIr8cutVN0cFZBm3q8U-MA" group-title="WORLD NEWS",08 Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1VTp5rZoqM0bxu5M7CMR-e7XBzWyQZTln" group-title="WORLD NEWS",08 Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",08 RT-NEWS
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
