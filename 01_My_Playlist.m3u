@@ -103,7 +103,8 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1pgyYUHNNjLuWSR5eLZdlWCKI3hyb4fm_" group-title="WORLD NEWS",25 CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#https://fl1.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yTPMvHRUiO05AUVy1Co0tDfjZY4qdvEx" group-title="WORLD NEWS",26 CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
