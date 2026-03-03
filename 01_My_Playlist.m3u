@@ -49,6 +49,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dj8QQd6EXy4UpGhvnyFK9IRyx9Qyn2EH" group-title="WORLD NEWS",08 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1C6vLwhiqVKLyD2xi1uqvLeLGM9iwJ9RO" group-title="WORLD NEWS",08 OAN
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1DXDsNT5vH2ZKtSOZz23dfguJrPDJBKWZ" group-title="WORLD NEWS",08 RT-NEWS
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
