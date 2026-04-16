@@ -46,6 +46,9 @@ https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WaEeCktkgcSi6nBE9HR9SBvj7Hvw4T8S" group-title="WORLD NEWS",08 Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GDNirV3mJ5XOZuYWYRww0uphnHpAldPC" group-title="WORLD NEWS",08 India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dj8QQd6EXy4UpGhvnyFK9IRyx9Qyn2EH" group-title="WORLD NEWS",08 CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
