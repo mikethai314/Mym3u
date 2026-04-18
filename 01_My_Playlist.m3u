@@ -56,7 +56,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1f8Yv0KAujNUG6PEA2tE9AYKYJVu9RTEy" group-title="WORLD NEWS",08 NHK World
-https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+https://nhk.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1C6vLwhiqVKLyD2xi1uqvLeLGM9iwJ9RO" group-title="WORLD NEWS",08 OAN
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
